@@ -6,7 +6,7 @@ Dada la longitud de los lados de varios triángulos debes calcular el perímetro
 ### Objetivo del problema
 En este problema se practican las expresiones aritméticas, las instrucciones de asignación y de entrada/salida.
 ### Entrada
-La entrada comienza con un entero que indica el número de casos de prueba que vendrán a continuación. Cada caso se escribe en una línea y consta de tres valores enteros positivos correspondientes a los tres lados del triángulo. Todos los valores son menores de 1.000.
+La entrada comienza con un entero que indica el número de casos de prueba que vendrán a continuación. Cada caso se escribe en una línea y consta de tres valores enteros positivos correspondientes a los tres lados del triángulo.
 ### Salida
 Para cada caso de prueba se escribe en una línea el valor del perímetro del triángulo.
 ### Entrada de ejemplo

@@ -31,8 +31,6 @@ En este tutorial se detalla el proceso de envío de los lotes para los ejercicio
 - Ejercicios 1-4
 ## Lote02:
 - A determinar (pendiente)
-## Lote03:
-- A determinar (pendiente)
 
 ## Autores/as:
 - David Rozas

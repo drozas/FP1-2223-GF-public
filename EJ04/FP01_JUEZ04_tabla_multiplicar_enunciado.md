@@ -8,7 +8,7 @@ Recordad que para escribir un único carácter se debe poner entre comillas simp
 ### Objetivo del problema
 En este problema se practica el bucle for y la diferencia entre un carácter simple y una cadena de caracteres. 
 ### Requisitos de implementación
-El problema debe resolverse utilizando únicamente expresiones aritméticas, instrucciones básicas y bucles for.
+El problema debe resolverse utilizando únicamente expresiones aritméticas, instrucciones básicas y bucles while.
 ### Entrada
 La entrada comienza con un entero que indica el número de casos de prueba que vendrán a continuación. Cada caso se escribe en una línea y consta de un valor entero positivo menor que 100.
 ### Salida

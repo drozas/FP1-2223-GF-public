@@ -30,6 +30,8 @@ En este tutorial se detalla el proceso de envío de los lotes para los ejercicio
 ## Lote01:
 - Ejercicios 1-4
 ## Lote02:
+- Ejercicios 5-6
+## Lote03:
 - A determinar (pendiente)
 
 ## Autores/as:
